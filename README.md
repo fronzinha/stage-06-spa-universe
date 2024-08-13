@@ -1,7 +1,5 @@
 # SPA Universe 
 
-![preview](./.github/preview.png)
-
 > Trilha Explorer
 
 ### Para ver esse projeto funcionando corretamente é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer, ou abrir o terminal e digitar npm start.
